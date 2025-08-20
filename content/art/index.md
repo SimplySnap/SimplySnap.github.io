@@ -3,7 +3,6 @@
 hideAuthor = true
 hideDate = true
 hideLastMod = true
-aliases = ["/photography/"]
 +++
 
 
