@@ -4,10 +4,10 @@ title: "Home"
 name: "Titus Parker"
 
 # Home page picture is controlled via .site.params.params.imgname
-# imgname:
-#   name: "assets/img/expanse.jpg"
+imgname:
+  name: "assets/img/cropped_headshot.jpg"
 #   alt: ""
-#   type: image/jpeg
+  type: image/png
 
 # More sources can be added (optional) using
 # imgOther:
@@ -70,6 +70,7 @@ Some of my recent publications include:
 - Shared mobile-cloud inference for collaborative intelligence (NeurIPS 2019 demo) [[Talk](https://www.youtube.com/watch?v=sHySFCUzh6s)] [[Code](https://github.com/YodaEmbedding/collaborative-intelligence)]
 -->
 
+<!--
 Some fun projects I've worked on:
 
 - [Building a mini autograd engine (Python) [Slides]](assets/pdf/2024-building-a-mini-autograd-autodiff-engine-slides.pdf)
@@ -87,4 +88,3 @@ Some fun projects I've worked on:
 <!-- - [Raytracer]() -->
 <!-- flow-rate-app -->
 <!-- colliflow: https://www.youtube.com/watch?v=ApvKOTlmflo -->
-
