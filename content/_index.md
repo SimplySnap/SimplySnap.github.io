@@ -5,7 +5,7 @@ name: "Titus Parker"
 
 # Home page picture is controlled via .site.params.params.imgname
 imgname:
-  name: "assets/img/cropped_headshot.jpg"
+  name: "assets/main/cropped_headshot.png"
 #   alt: ""
   type: image/png
 
@@ -28,7 +28,7 @@ personal_title: "BS. Mathematics Candidate @ Stanford"
 #     locality: Earth
 
 # Add an email with a mailto: hyperlink
-# email: aaaa@example.com
+email: titus000 'at' stanford.edu
 # Add an email "image" for spam protection. With light and dark mode
 # emailImg:
 #   dark: /assets/img/dark_email.png
@@ -39,23 +39,24 @@ personal_title: "BS. Mathematics Candidate @ Stanford"
 <!-- TODO Move this to the top of the page. -->
 <!-- Social media links -->
 <div style="text-align: center">
-<a href="https://stackoverflow.com/users/365102/mateen-ulhaq"><img src="assets/img/icons/stackoverflow-32x32.png" alt="Stack Overflow" title="Stack Overflow" style="display: inline-block; height: 16px; width: auto" /></a>&nbsp;
-<a href="https://github.com/YodaEmbedding"><img src="assets/img/icons/github-32x32.png" alt="GitHub" title="GitHub" style="display: inline-block; height: 16px; width: auto" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/mulhaq"><img src="assets/img/icons/linkedin-32x32.png" alt="LinkedIn" title="LinkedIn" style="display: inline-block; height: 16px; width: auto" /></a>&nbsp;
-<a href="https://muntoo.deviantart.com/gallery"><img src="assets/img/icons/photography-32x32.png" alt="Photography/Art" title="Photography/Art" style="display: inline-block; height: 16px; width: auto" /></a>
+<!--<a href="https://stackoverflow.com/users/365102/mateen-ulhaq"><img src="assets/img/icons/stackoverflow-32x32.png" alt="Stack Overflow" title="Stack Overflow" style="display: inline-block; height: 16px; width: auto" /></a>&nbsp; -->
+<a href="https://github.com/SimplySnap"><img src="assets/main/tools-icon.png" alt="GitHub" title="GitHub" style="display: inline-block; height: 16px; width: auto" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/titus-parker-b679581b2"/><img src="assets/main/work-area-ico.png" alt="LinkedIn" title="LinkedIn" style="display: inline-block; height: 16px; width: auto" /></a>&nbsp;
 </div>
 
 
 <!-- # Bio -->
 
 I am a current BS candidate in Mathematics at Stanford.
-I am interested in machine learning, mathematical biology, computer science theory and systems programming
-<!--
-[![Stack Overflow](assets/img/icons/stackoverflow-32x32.png)](https://stackoverflow.com/users/365102/mateen-ulhaq)
-[![GitHub](assets/img/icons/github-32x32.png)](https://github.com/YodaEmbedding)
-[![LinkedIn](assets/img/icons/linkedin-32x32.png)](https://www.linkedin.com/in/mulhaq)
+I am interested in machine learning, mathematical biology, computer science theory and systems programming.
+
+Please contact me if you are interested in parallel computing, biological computing and scientific computing for social good! I am exploring opportunities in these areas and would love to be involved in any such work.
+
+
+[![GitHub](assets/main/tools-icon.png)](https://github.com/SimplySnap)
+[![LinkedIn](assets/main/work-area-ico.png)](https://www.linkedin.com/in/titus-parker-b679581b2)
 [![DeviantArt](assets/img/icons/photography-32x32.png)](https://muntoo.deviantart.com/gallery)
- -->
+
 
 <!--
 Some of my recent publications include:
