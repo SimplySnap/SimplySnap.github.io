@@ -52,11 +52,7 @@ I am interested in machine learning, mathematical biology, computer science theo
 
 Please contact me if you are interested in parallel computing, biological computing and scientific computing for social good! I am exploring opportunities in these areas and would love to be involved in any such work.
 
-
-[![GitHub](/main/tools-icon.png)](https://github.com/SimplySnap) GitHub
-[![LinkedIn](/main/work-area-ico.png)](https://www.linkedin.com/in/titus-parker-b679581b2) LinkedIn
-
-
+Some of my coursework includes: ...
 
 <!--
 Some of my recent publications include:

@@ -1,5 +1,5 @@
 +++
-# title = "Art"
+# title = "Please ignore this page - work in progress"
 hideAuthor = true
 hideDate = true
 hideLastMod = true
