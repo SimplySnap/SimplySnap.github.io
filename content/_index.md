@@ -55,7 +55,7 @@ Please contact me if you are interested in parallel computing, biological comput
 
 [![GitHub](assets/main/tools-icon.png)](https://github.com/SimplySnap)
 [![LinkedIn](assets/main/work-area-ico.png)](https://www.linkedin.com/in/titus-parker-b679581b2)
-[![DeviantArt](assets/img/icons/photography-32x32.png)](https://muntoo.deviantart.com/gallery)
+
 
 
 <!--
