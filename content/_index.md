@@ -40,8 +40,8 @@ email: titus000 'at' stanford.edu
 <!-- Social media links -->
 <div style="text-align: center">
 <!--<a href="https://stackoverflow.com/users/365102/mateen-ulhaq"><img src="assets/img/icons/stackoverflow-32x32.png" alt="Stack Overflow" title="Stack Overflow" style="display: inline-block; height: 16px; width: auto" /></a>&nbsp; -->
-<a href="https://github.com/SimplySnap"><img src="../assets/main/tools-icon.png" alt="GitHub" title="GitHub" style="display: inline-block; height: 16px; width: auto" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/titus-parker-b679581b2"/><img src="../assets/main/work-area-ico.png" alt="LinkedIn" title="LinkedIn" style="display: inline-block; height: 16px; width: auto" /></a>&nbsp;
+<a href="https://github.com/SimplySnap"><img src="assets/main/tools-icon.png" alt="GitHub" title="GitHub" style="display: inline-block; height: 16px; width: auto" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/titus-parker-b679581b2"/><img src="assets/main/work-area-ico.png" alt="LinkedIn" title="LinkedIn" style="display: inline-block; height: 16px; width: auto" /></a>&nbsp;
 </div>
 
 
