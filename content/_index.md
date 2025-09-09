@@ -5,9 +5,9 @@ name: "Titus Parker"
 
 # Home page picture is controlled via .site.params.params.imgname
 imgname:
-  name: "/main/cropped_headshot.png"
+  name: "main/cropped_headshot.jpg"
 #   alt: ""
-  type: image/png
+  type: image/jpg
 
 # More sources can be added (optional) using
 # imgOther:
