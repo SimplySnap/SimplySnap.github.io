@@ -6,8 +6,8 @@ name: "Titus Parker"
 # Home page picture is controlled via .site.params.params.imgname
 imgname:
   name: "main/cropped_headshot.jpg"
-#   alt: ""
-  type: image/jpg
+  alt: "Me!"
+  type: image/jpeg
 
 # More sources can be added (optional) using
 # imgOther:
@@ -52,7 +52,8 @@ I am interested in machine learning, mathematical biology, computer science theo
 
 Please contact me if you are interested in parallel computing, biological computing and scientific computing for social good! I am exploring opportunities in these areas and would love to be involved in any such work.
 
-Some of my coursework includes: ...
+Some of my coursework includes: machine learning, quantum computing, ecological dynamics, numerical analysis, graph theory, algorithm analysis and data structures.
+For a full list of my coursework, please go to the CV page.
 
 <!--
 Some of my recent publications include:
