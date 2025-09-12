@@ -5,7 +5,7 @@ name: "Titus Parker"
 
 # Home page picture is controlled via .site.params.params.imgname
 imgname:
-  name: "main/cropped_headshot.jpg"
+  name: "/main/cropped_headshot.jpg"
   alt: "Me!"
   type: image/jpeg
 

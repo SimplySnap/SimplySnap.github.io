@@ -63,7 +63,7 @@ pygmentsStyle = "native"
 
     # Main image for the author. This will be the default image for SEO.
     [params.imgname]
-        name = "static/main/cropped_headshot.jpg"
+        name = "main/cropped_headshot.jpg"
         # alt = "Profile picture"
 
     # Indicate if you host KaTeX yourself. Defaults to using the CDN KaTeX.
