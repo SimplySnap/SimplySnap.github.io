@@ -31,21 +31,16 @@ pygmentsStyle = "native"
 # Configure main navbar links. They can have a weight to select the order.
 # This links to content within the content/post/ folder
 [[menu.main]]
-    name = "Posts"
-    url = "/post/"
+    name = "PoCVsts"
+    url = "/CV/"
     weight = -150
 
-# content/about/index.md
+# content/projects/index.md
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Projects"
+    url = "/projects/"
     weight = -110
 
-# content/about/index.md
-[[menu.main]]
-    name = "Art"
-    url = "/art/"
-    weight = -115
 
 # Make the tags and categories pages accessible directly from the navbar.
 # [[menu.main]]
@@ -68,7 +63,7 @@ pygmentsStyle = "native"
 
     # Main image for the author. This will be the default image for SEO.
     [params.imgname]
-        name = "assets/img/expanse.jpg"
+        name = "static/main/cropped_headshot.jpg"
         # alt = "Profile picture"
 
     # Indicate if you host KaTeX yourself. Defaults to using the CDN KaTeX.
