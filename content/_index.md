@@ -50,9 +50,11 @@ email: titus000 'at' stanford.edu
 I am a current BS candidate in Mathematics at Stanford.
 I am interested in machine learning, mathematical biology, computer science theory and systems programming.
 
-Please contact me if you are interested in parallel computing, biological computing and scientific computing for social good! I am exploring opportunities in these areas and would love to be involved in any such work.
+<h2>This website is still under development. Please be aware of broken links and missing images for now</h2>
 
-Some of my coursework includes: machine learning, quantum computing, ecological dynamics, numerical analysis, graph theory, algorithm analysis and data structures.
+Please contact me if you are interested in parallel computing, computational biology and machine learning! I am exploring opportunities in these areas and would love to be involved in any such work.
+
+Some of my coursework includes: machine learning, ecological dynamics, numerical analysis, graph theory, quantum computing, algorithm analysis and data structures.
 For a full list of my coursework, please go to the CV page.
 
 <!--

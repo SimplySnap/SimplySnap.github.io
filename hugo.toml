@@ -29,9 +29,9 @@ pygmentsStyle = "native"
 
 
 # Configure main navbar links. They can have a weight to select the order.
-# This links to content within the content/post/ folder
+# This links to content within the content/CV/ folder
 [[menu.main]]
-    name = "PoCVsts"
+    name = "CV"
     url = "/CV/"
     weight = -150
 
