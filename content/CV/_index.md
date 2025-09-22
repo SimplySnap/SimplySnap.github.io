@@ -3,7 +3,7 @@
 Structure: work, projects (link + bullets of tools), classes 
 
 <h2>Work</h2>
-*Research Intern, AMD/IPAM (Institute for Pure and Applied Math)** — June-August 2025
+**Research Intern, AMD/IPAM (Institute for Pure and Applied Math)** — June-August 2025
 - Implemented novel linear programming algorithms on ROCm GPU clusters in team of four
 - Collaborated with AMD and Gridmatic to optimize energy sector linear programming problems  
 - Designed genetic algorithm achieving 100+% speedup for large LP instances

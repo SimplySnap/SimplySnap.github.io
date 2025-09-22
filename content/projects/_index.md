@@ -26,7 +26,7 @@ I worked in a team of three cleaning and analysing NASA satellite datasets using
 - <h2>Strange Attractor Art: graphing unique & beautiful strange attractors</h2>
 <h4>2023</h4>
 Generating strange attractors in python.
-div style="display: flex; flex-direction: row; gap: 10px;">
+<div style="display: flex; flex-direction: row; gap: 10px;">
   <img src="/projects/attractor_1.png" alt="Strange Attractor 1" style="height:150px;"/>
   <img src="/projects/attractor_2.png" alt="Strange Attractor 2" style="height:150px;"/>
   <img src="/projects/attractor_3.png" alt="Strange Attractor 3" style="height:150px;"/>
@@ -36,7 +36,7 @@ div style="display: flex; flex-direction: row; gap: 10px;">
 - <h2>Native Plant Restoration: designing and stewarding California-native gardens for ecosystem resilience</h2>
 <h4>September 2024-Present</h4>
 Independent work improving local plant biodiversity, managing invasive species like Chinese Sumac, ensuring year-round pollinator food sources, and spreading milkweed for endangered Monarch butterflies. A deeply rewarding hobby to make a change from mathematics.
-<video controls style="max-width: 100%; height: 300px;">
+<center><video controls style="max-width: 100%; height: 300px; justify-content:center;">
   <source src="/projects/hbird_vid.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video></center>
