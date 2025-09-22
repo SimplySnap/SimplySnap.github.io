@@ -27,9 +27,9 @@ I worked in a team of three cleaning and analysing NASA satellite datasets using
 <h4>2023</h4>
 Generating strange attractors in python.
 <div style="display: flex; flex-direction: row; gap: 10px;">
-  <img src="/projects/attractor_1.png" alt="Strange Attractor 1" style="height:250px;"/>
-  <img src="/projects/attractor_2.png" alt="Strange Attractor 2" style="height:250px;"/>
-  <img src="/projects/attractor_3.png" alt="Strange Attractor 3" style="height:250px;"/>
+  <img src="/projects/attractor_1.png" alt="Strange Attractor 1" style="height:150px;"/>
+  <img src="/projects/attractor_2.png" alt="Strange Attractor 2" style="height:150px;"/>
+  <img src="/projects/attractor_3.png" alt="Strange Attractor 3" style="height:150px;"/>
 </div>
 
 <p></p>
