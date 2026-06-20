@@ -1,15 +1,19 @@
 # Curriculum Vitae
 
-Structure: work, projects (link + bullets of tools), classes 
+<!--Structure: work, projects (link + bullets of tools), classes -->
 
 <h2>Work</h2>
+
+**Mathematical Engineering Intern, Internet Capital Market Exchange** — February-June 2026
+- Low-latency market making in Rust
+- Researched Mmarket making strategies in markets with varying flow and volatility
 
 **Research Intern, AMD/IPAM (Institute for Pure and Applied Math)** — June-August 2025
 - Implemented novel linear programming algorithms on ROCm GPU clusters in team of four
 - Collaborated with AMD and Gridmatic to optimize energy sector linear programming problems  
 - Designed genetic algorithm achieving 100+% speedup for large LP instances
 
-**Residential Assistant, Stanford University** — September 2024 – Present
+**Residential Assistant, Stanford University** — September 2024 – June 2025
 - Foster inclusive living environment through communication and conflict mediation for 50+ residents
 - Collaborate with 7-person team on educational programming reaching 200+ attendees with $4000+ budgets
 

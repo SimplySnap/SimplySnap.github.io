@@ -47,14 +47,14 @@ email: titus000 'at' stanford.edu
 
 <!-- # Bio -->
 
-I am a current BS candidate in Mathematics at Stanford.
-I am interested in machine learning, mathematical biology, computer science theory and systems programming.
+I am a current MS candidate in Computational & Mathematical Engineering at Stanford. I also hold a BS in mathematics also from Stanford.
+My interests bridge optimization (reinforcement learning, distributed learning, stochastic and non-convex optimization, control) and earth systems science (climate science, theoretical ecology)
 
 
-Please contact me if you are interested in parallel computing, computational biology and machine learning! I am exploring opportunities in these areas and would love to be involved in any such work.
+Please contact me if you are interested in computational earth sciences and optimization/ML! I am exploring opportunities in these areas and would love to be involved in any such work.
 
-Some of my coursework includes: machine learning, ecological dynamics, numerical analysis, graph theory, quantum computing, algorithm analysis and data structures.
-For a full list of my coursework, please go to the CV page.
+Some of my coursework includes: machine learning, ecological dynamics, parallel computing, reinforcement learning, graph theory, quantum computing, algorithm analysis and data structures, computer systems.
+For a more full list of my coursework, please go to the CV page.
 
 <!--
 Some of my recent publications include:
