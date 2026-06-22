@@ -1,5 +1,24 @@
 # Projects
+<h2>Parallel Particle Swarm Optimization</h2>
+<h4>April-June 2026</h4>
+Particle Swarm Optimization (PSO) is a metaheuristic based optimization method that excels at solving non-convex and non-differentiable optimization problems. I worked in a team of three desiging a highly performant CUDA implementation of PSO for GPUs.
 
+We also used MPI to coordinate multi-swarm optimization across clusters, investigating throughput and solution quality with different mutli-swarm communication topology.
+
+<p></p>
+
+<h2>Entropy in Environmental Spatial Cyclic Games</h2>
+<h4>September-December 2025</h4>
+I led the programming side of a team of three investigating nonlinearity and entropy in environmental spatial cyclic games. These are phenomena found in nature, where species interactions across space leads to cyclic interactions between species where group dynamics balance, reaching stationarity with some repeating frequency. We investigated long term dynamics under changing parameters in a three species game akin to Rock Paper Scissors.
+
+As part of this team, I coined a new type of system entropy that quantifies the complexity of inter-species spatial boundaries. I then wrote parallelized implementations of the game and investigated how different parameters lead to different entropic behaviour. This project combined parallel algorithm design with PDEs and mathematical biology. Very fun.
+
+<p></p>
+<h2>Graph Neural Cellular Automata</h2>
+<h4>October-December 2025</h4>
+I worked in a team of two designing graph machine learning models that learnt cellular automata dynamics on graphs.
+
+<p></p>
 <h2>Primal Dual Linear Programming on AMD GPUs in PyTorch</h2>
 <h4>June-September 2025</h4>
 I was part of a four person team working with AMD and IPAM (Instute for Pure and Applied Mathematics) aiming to implement a convex optimization algorithm using PyTorch to solve linear programs.
@@ -12,17 +31,12 @@ Though this enhancement (a more basic form), is found in the master branch & pyt
 
 
 <p></p>
-<h2>Game-Playing Agent: using Markov Searches, alpha-beta pruning and other strategies to play games on the fly</h2>
-<h4>April-June 2025</h4>
-In this project, I was part of a team of three, designing an 'intelligent' agent, able to play any game on the fly. The project included implementing algorithms like Markov Tree Searches, minimax, persistent tree search, and other strategies from the early AI literature. Think a connect four robot, chess engine, tic tac toe tool and catan player all in one.
-
-
-<p></p>
 <h2> Wildfire Prediction: supervised and unsupervised learning for wildfire insights from satellite data</h4>
 <h4>February-April 2025</h4>
 I worked in a team of three cleaning and analysing NASA satellite datasets using supervised methods (NNs, Random Forests) and unsupervised methods (DBSCAN). The goal was to better understand what environmental variables make wildfires more likely, and to better recognize when satellite 'fire pixels' actually correspond to wildfires.
 
 <p></p>
+<!-- 
 <h2>Strange Attractor Art: graphing unique & beautiful strange attractors</h2>
 <h4>2023</h4>
 Generating strange attractors in python.
@@ -30,7 +44,7 @@ Generating strange attractors in python.
   <img src="/projects/attractor_1.png" alt="Strange Attractor 1" style="height:150px;"/>
   <img src="/projects/attractor_2.png" alt="Strange Attractor 2" style="height:150px;"/>
   <img src="/projects/attractor_3.png" alt="Strange Attractor 3" style="height:150px;"/>
-</div>
+</div> >
 
 <p></p>
 <h2>Native Plant Restoration: designing and stewarding California-native gardens for ecosystem resilience</h2>

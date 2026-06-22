@@ -6,12 +6,12 @@
 
 **Mathematical Engineering Intern, Internet Capital Market Exchange** — February-June 2026
 - Low-latency market making in Rust
-- Researched Mmarket making strategies in markets with varying flow and volatility
+- Researched high variance, high volatility, low flow market making strategies
 
 **Research Intern, AMD/IPAM (Institute for Pure and Applied Math)** — June-August 2025
-- Implemented novel linear programming algorithms on ROCm GPU clusters in team of four
+- Implemented linear programming algorithms on ROCm GPU clusters in team of four
 - Collaborated with AMD and Gridmatic to optimize energy sector linear programming problems  
-- Designed genetic algorithm achieving 100+% speedup for large LP instances
+- Spearheaded design of genetic algorithm achieving 100+% speedup for large LP instances
 
 **Residential Assistant, Stanford University** — September 2024 – June 2025
 - Foster inclusive living environment through communication and conflict mediation for 50+ residents
@@ -27,7 +27,7 @@
 
 <h2>Projects</h2>
 See the <a href="/projects/">projects page</a> for more details.
-Tools and skills: Python, PyTorch, pandas, numpy, scikit-learn, slurm
+Tools and skills: Python, PyTorch, numpy, scikit-learn, pandas, SLURM, CUDA
 Working on: C++, ROCm/CUDA
 
 <h2>Classes</h2>
@@ -41,20 +41,18 @@ A semi-complete list of relevant coursework in reverse-chronological order:
 - Reinforcement Learning
 - Blockchain Theory
 - Graph Machine Learning
-- Independent Math Research
 - Groups and Rings (Algebra)
-- General Game-Playing (AI)
 - Ecological Dynamics: Theory and Applications
-- Probability
+- Probability Theory
 - Machine Learning
 - Linear Algebra
 - Theoretical Population Genetics
-- Fundamental Concepts of Analysis (Real Analysis)
+- Real Analysis
 - Quantum Computing
-- Female Divinities in China (History/Femgen)
+- Female Divinities in China
 - Introduction to Scientific Computing
 - Design and Analysis of Algorithms
-- Mathematics of Computation (Numerical Analysis)
+- Numerical Analysis
 - Introduction to Combinatorics
 - Knot Theory
 - Graph Theory
@@ -62,6 +60,5 @@ A semi-complete list of relevant coursework in reverse-chronological order:
 - Introduction to Geophysics
 - Russian Language
 - Introduction to Differential Equations
-- Mathematical Foundations of Computing (Intro CS Theory)
-- Programming Abstractions (Data Structures)
-- Atmospheric Flow
+- CS Theory
+- Programming Abstractions / Data Structures

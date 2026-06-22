@@ -18,7 +18,7 @@ imgname:
 # ...
 
 # personal_title: "MASc. Engineering"
-personal_title: "BS. Mathematics Candidate @ Stanford"
+personal_title: "MS. Computational & Mathematical Engineering Candidate @ Stanford; BS. Mathematics @ Stanford"
 
 # address:
 #   -
@@ -48,13 +48,13 @@ email: titus000 'at' stanford.edu
 <!-- # Bio -->
 
 I am a current MS candidate in Computational & Mathematical Engineering at Stanford. I also hold a BS in mathematics also from Stanford.
-My interests bridge optimization (reinforcement learning, distributed learning, stochastic and non-convex optimization, control) and earth systems science (climate science, theoretical ecology)
+My interests bridge optimization (reinforcement learning, distributed learning, stochastic and non-convex optimization, control) and earth systems science (climate science, theoretical ecology). I have startup and research experience across physics simulation, gpu-native optimization, mathematical finance and machine learning.
 
 
 Please contact me if you are interested in computational earth sciences and optimization/ML! I am exploring opportunities in these areas and would love to be involved in any such work.
 
-Some of my coursework includes: machine learning, ecological dynamics, parallel computing, reinforcement learning, graph theory, quantum computing, algorithm analysis and data structures, computer systems.
-For a more full list of my coursework, please go to the CV page.
+<!--Some of my coursework includes: machine learning, ecological dynamics, parallel computing, reinforcement learning, graph theory, quantum computing, algorithm analysis and data structures, computer systems. -->
+For a full(er) list of my coursework, please go to the CV page.
 
 <!--
 Some of my recent publications include:
